@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "question": "Guess the movie by the side character name: Yondu",
+        "options": ["Se7en", "Seven Samurai", "Guardians of the Galaxy Vol2", "Interstellar"],
+        "correct": "Guardians of the Galaxy Vol2"
+    },
+    {
+        "question": "Guess the movie by the side character name: Gally",
+        "options": ["Maze Runner", "Braveheart", "Your Name", "High and Low"],
+        "correct": "Maze Runner"
+    },
+    {
+        "question": "Guess the movie by the side character name: Gale Hawthorne",
+        "options": ["Training Day", "Hunger Games", "Silo", "Revenant"],
+        "correct": "Hunger Games"
+    },
+    {
+        "question": "Guess the movie by the side character name: Ernest Lawrence",
+        "options": ["Divergent", "Oppenheimer", "Spider-Man: Across the Spider-Verse", "The prestige"],
+        "correct": "Oppenheimer"
+    },
+    {
+        "question": "Guess the movie by the side character name: Michael Cheritto",
+        "options": ["Heat", "Oceans Eleven", "Private ryan", "The Amazing spiderman"],
+        "correct": "Heat"
+    }
+]

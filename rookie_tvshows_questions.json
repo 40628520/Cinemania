@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "question": "Fill out the blank to guess the show: Attack __ Titan",
+        "options": ["On", "Or", "Of", "My"],
+        "correct": "On"
+    },
+    {
+        "question": "Fill out the blank to guess the show: The Last _",
+        "options": ["GodFather", "Morty", "War", "Kingdom"],
+        "correct": "Kingdom"
+    },
+    {
+        "question": "Fill out the blank to guess the show: _ Detective",
+        "options": ["True", "Professor", "Sherlock", "Nina"],
+        "correct": "True"
+    },
+    {
+        "question": "Fill out the blank to guess the show: __ Blinders",
+        "options": ["Peaky", "Friends", "Africa", "Kitchen"],
+        "correct": "Peaky"
+    },
+    {
+        "question": "Fill out the blank to guess the show: _ Beyond Journey's End",
+        "options": ["Wing", "Frieren", "Monty", "West"],
+        "correct": "Frieren"
+    }
+]

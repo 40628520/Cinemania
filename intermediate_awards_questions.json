@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Oscar winner Actress who traveled through space in a role and was a princess but still found time to dance",
+        "options": ["Natalie Portman", "Halle Berry", "Rihanna", "Anne Hathaway"],
+        "correct": "Natalie Portman"
+    },
+    {
+        "question": "Oscar Winner Actor who is a Professor who loves saying were you rushing or were you dragging ",
+        "options": ["J.K simmons", "Denzel Washington", "Brad Pitt", "Will Smith"],
+        "correct": "J.K simmons"
+    },
+    {
+        "question": "Emmy Winner Show: teacher who sells drugs in a caravan while hes wife sends his money to her boss",
+        "options": ["Parasite", "Breaking bad", "Truman Show", "The matrix"],
+        "correct": "Breaking bad"
+    },
+    {
+        "question": "Emmy Winner Show: Associates just talking complaining about life everyday",
+        "options": ["The Office", "Whiplash", "Better Call Saul", "The prestige"],
+        "correct": "The Office"
+    },
+    {
+        "question": "Emmy Winner Show: Family all fighting for inheritence just to get nothing",
+        "options": ["Dune:Prophecy", "Succession", "Tokyo Ghoul", "Naruto"],
+        "correct": "Succession"
+    }
+]

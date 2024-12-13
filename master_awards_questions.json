@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "question": "Guess the show who won an award by the side character name: Floki",
+        "options": ["Vikings", "Newhart", "Real Time with Bill Maher", "Interstellar"],
+        "correct": "Vikings"
+    },
+    {
+        "question": "Guess the show who won an award by the side character name: Shane",
+        "options": ["Maze Runner", "The walking dead", "Your Name", "Sword Art Online"],
+        "correct": "The walking dead"
+    },
+    {
+        "question": "Guess the show who won an award by the side character name: Happy",
+        "options": ["Training Day", "Equalizer", "Sons of Anarchy", "Troy"],
+        "correct": "Sons of Anarchy"
+    },
+    {
+        "question": "Guess the movie who won an award by the side character name: Lizzie Q",
+        "options": ["Killers of the Flower Moon", "The boys", "This Is Us", "Luther"],
+        "correct": "Killers of the Flower Moon"
+    },
+    {
+        "question": "Guess the movie who won an award by the side character name: Gloria",
+        "options": ["Heat", "King Kong", "Barbie", "Edward Scissorhands"],
+        "correct": "Barbie"
+    }
+]

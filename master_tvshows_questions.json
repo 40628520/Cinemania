@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "question": "Guess the show by the side character name: Stiles Stilinski",
+        "options": ["Teen Wolf", "Wolf Blood", "Jack Reacher", "Interstellar"],
+        "correct": "Teen Wolf"
+    },
+    {
+        "question": "Guess the show by the side character name: Rip",
+        "options": ["How I met your mother", "Gen V", "Jack Reacher", "YellowStone"],
+        "correct": "YellowStone"
+    },
+    {
+        "question": "Guess the show by the side character name: Bobby Singer",
+        "options": ["Pride and Prejudice", "Dragon Ball Z", "BoJack Horseman", "Supernatural"],
+        "correct": "Supernatural"
+    },
+    {
+        "question": "Guess the show by the side character name: Vander",
+        "options": ["Arcane", "Bleach", "Narcos", "Black Mirror"],
+        "correct": "Arcane"
+    },
+    {
+        "question": "Guess the show by the side character name: Alfie Solomons",
+        "options": ["The last of Us", "Downton Abbey", "Peaky Blinders", "Berserk"],
+        "correct": "Peaky Blinders"
+    }
+]

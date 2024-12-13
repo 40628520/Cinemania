@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Farmers children have a war over their mothers",
+        "options": ["One piece", "Vikings", "Breaking bad", "Suits"],
+        "correct": "Vikings"
+    },
+    {
+        "question": "Guy sells weed in a hotel so he becomes a lawyer",
+        "options": ["Blade", "Suits", "Wolf of Wall street", "Angry Men"],
+        "correct": "Suits"
+    },
+    {
+        "question": "Drunk man gets punctured by boar causing thousands to die",
+        "options": ["Naruto", "Shogun", "Silo", "Game of thrones"],
+        "correct": "Game of thrones"
+    },
+    {
+        "question": "Half-brother obessesed with his family so he locks them up in coffins when hes angry",
+        "options": ["The originals", "Shadowhunters", "Voyager", "Teen Wolf"],
+        "correct": "The originals"
+    },
+    {
+        "question": "Kid endures life threatening task causing him to lose his mentor just to meet his father",
+        "options": ["The walking dead", "Hunter X Hunter", "Bleach", "Dragon ball"],
+        "correct": "Hunter X Hunter"
+    }
+]

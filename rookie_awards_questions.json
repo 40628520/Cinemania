@@ -1,0 +1,28 @@
+[
+    {
+
+        "question": "Fill out the blank, which series won the limited series emmy of 2024 : Baby _",
+        "options": ["Char", "Boss", "Reindeer", "Driver"],
+        "correct": "Reindeer"
+    },
+    {
+        "question": "Fill out the blank which series won outstanding directing for a comedy series in 2024: The _ ",
+        "options": ["Bear", "Slow", "Horses", "Dark"],
+        "correct": "Bear"
+    },
+    {
+        "question": "Fill out the blank to which series won oustanding comedy series in 2023 emmys: The _",
+        "options": ["Good", "Gump", "Bear", "Beef"],
+        "correct": "Bear"
+    },
+    {
+        "question": "Fill out the blank to which movie won a oscar for Best Actress 2024: _ Things  ",
+        "options": ["Wings", "Poor", "Anatomy", "American"],
+        "correct": "Poor"
+    },
+    {
+        "question": "Fill out the blank to guess the movie won a oscar for actor in supporting role: _ Everywhere All At Once",
+        "options": ["Spirited", "Everything", "Good", "Moon"],
+        "correct": "Everything"
+    }
+]

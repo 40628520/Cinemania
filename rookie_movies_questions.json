@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "question": "Fill out the blank to guess the movie: Die _",
+        "options": ["Charm", "Car", "Hard", "Furious"],
+        "correct": "Hard"
+    },
+    {
+        "question": "Fill out the blank to guess the movie: The _ Knight ",
+        "options": ["GodFather", "Sunrise", "Singer", "Dark"],
+        "correct": "Dark"
+    },
+    {
+        "question": "Fill out the blank to guess the movie: _ Fiction",
+        "options": ["Good", "Gump", "Forest", "Pulp"],
+        "correct": "Pulp"
+    },
+    {
+        "question": "Fill out the blank to guess the movie: Avengers:_ War ",
+        "options": ["Wings", "Infinity", "Jazz", "Broadway"],
+        "correct": "Infinity"
+    },
+    {
+        "question": "Fill out the blank to guess the movie: _ Away",
+        "options": ["Spirited", "Pianist", "Parasite", "Psycho"],
+        "correct": "Spirited"
+    }
+]

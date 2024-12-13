@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "question": "Man judging people for their sins",
+        "options": ["Se7en", "Seven Samurai", "Breaking bad", "Interstellar"],
+        "correct": "Se7en"
+    },
+    {
+        "question": "A group of men joining a club for fun",
+        "options": ["Diary of Wimpy kid", "Fight club", "Cobra Kai", "Angry Men"],
+        "correct": "Fight club"
+    },
+    {
+        "question": "Man doesn't like living in the basement so he kills the cleaners",
+        "options": ["Parasite", "Two guns", "Club", "The matrix"],
+        "correct": "Parasite"
+    },
+    {
+        "question": "Teen doesn't want his father to die so he runs through alternate realities trapping himself",
+        "options": ["Joker", "Whiplash", "Spider-Man: Across the Spider-Verse", "The prestige"],
+        "correct": "Spider-Man: Across the Spider-Verse"
+    },
+    {
+        "question": "Prodigy inhales sand in order to save his titles and family",
+        "options": ["Dune: Part Two", "Star wars: Revenge of the sith", "Parasite", "Alien"],
+        "correct": "Dune: Part Two"
+    }
+]
